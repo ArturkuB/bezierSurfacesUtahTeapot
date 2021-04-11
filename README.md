@@ -5,7 +5,7 @@
     <img src="https://i.imgur.com/8dKQFaQ.png"   alt="Logo" width="300" height="220">
   </a>
 
-  <h3 align="center">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspUtah utensils</h3>
+  <h3 align="center">Utah utensils</h3>
 
   <p align="center">
 
