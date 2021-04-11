@@ -36,7 +36,7 @@ Projekt wczytuje z pliku tekstowego współrzędne punktów kontrolnych i na ich
  
  Przy czym Bi,m(v), Bj,n(w) są funkcjami bazowymi Bernsteina o postaci analogicznej jak dla krzywych Béziera i określanych formułą:
  
- <img src=" https://i.imgur.com/3BbIA8A.png"   alt="wzor2" width="700" height="90">
+ <img src="https://i.imgur.com/3BbIA8A.png"   alt="wzor2" width="700" height="90">
  
 ## Sposób uruchomienia
 
@@ -44,4 +44,4 @@ Aby uruchomić projekt należy dodać go do jakiekolwiek frameworka programistyc
 
 ## Prezentacja obliczonych płatów Béziera
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/_yiDqUa5ZXc/0.jpg)](https://www.youtube.com/watch?v=RmaOK0SfDqc "Jet Fighter")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/_yiDqUa5ZXc/0.jpg)](https://www.youtube.com/watch?v=_yiDqUa5ZXc "Utah utensils")
